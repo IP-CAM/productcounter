@@ -1,14 +1,13 @@
 <?php
 // Heading
-$_['heading_title']    = 'Счетчик товаров по категориям';
+$_['heading_title']    = 'Counter of Goods by Category';
 
-$_['text_module']      = 'Модули';
-$_['text_success']     = 'Настройки успешно изменены!';
-$_['text_edit']        = 'Настройки модуля';
+$_['text_module']      = 'Modules';
+$_['text_success']     = 'Settings are successfully changed!';
+$_['text_edit']        = 'module settings';
 
 // Entry
-$_['entry_status']     = 'Статус';
+$_['entry_status']     = 'Status';
 
 // Error
-$_['error_permission'] = 'У Вас нет прав для изменения модуля Аккаунт!';
-
+$_['error_permission'] = 'You have no right to change the Module account!';
